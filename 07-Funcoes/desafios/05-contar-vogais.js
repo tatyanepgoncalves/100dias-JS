@@ -6,17 +6,16 @@
 
 
 function contarVogais(texto) {
-  let palavra = texto
   let vogais = "aeiouAEIOU"
   let contador = 0
 
-  for (let vogal in palavra) {
-    if (vogais.includes(vogal)) {
+  for (let letra of texto) {
+    if (vogais.includes(letra)) {
       contador++
     }
   }
   
-  console.log(`Na palavra ${palavra} tem ${contador} vogais.`)
+  console.log(`Na palavra ${texto} tem ${contador} vogais.`)
 }
 
 contarVogais("banana")

@@ -9,3 +9,12 @@ function dobro(numero) {
 }
 
 dobro(5)
+
+
+// OU 
+
+function dobroDif(numero) {
+  return numero * 2;
+}
+
+console.log(`O dobro do 5 é ${dobroDif(5)}`);

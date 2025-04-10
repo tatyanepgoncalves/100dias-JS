@@ -6,3 +6,19 @@
 // contar(); // 2
 // contar(); // 3
 // ```
+
+
+function contador() {
+  let numero = 0;
+
+  return function () {
+    numero++;
+    console.log(`Valor atual: ${numero}`);
+  };
+}
+
+const minhaContagem = contador(); 
+
+minhaContagem();
+minhaContagem();
+minhaContagem();

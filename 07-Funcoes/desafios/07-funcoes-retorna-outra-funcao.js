@@ -7,13 +7,11 @@
 // ```
 
 function criarSaudacao(saudacao) {
-  console.log(saudacao)
+  return function (nome) {
+    console.log(`${saudacao}, ${nome}!`)
+  }
 }
 
-function boaNoite(nome) {
+const bomDia = criarSaudacao("Bom dia")
 
-  console.log(nome)
-}
-
-criarSaudacao("Boa noite")
-boaNoite("Taty")
+bomDia("Taty")

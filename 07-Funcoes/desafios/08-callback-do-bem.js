@@ -12,8 +12,8 @@ function motivar(mensagem) {
 }
 
 function executar(funcao) {
-  console.log(funcao)
+  funcao("Você é capaz!")
 }
 
-motivar("Você é capaz!")
+
 executar(motivar)

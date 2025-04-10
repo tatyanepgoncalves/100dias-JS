@@ -5,7 +5,7 @@
 // saudar("Taty"); // Olá, Taty! Bem-vindo(a)!
 // ```
 function saudar(nome) {
-  console.log(`Olá ${nome}! Bem-vindo(a)!`)
+  console.log(`Olá, ${nome}! Bem-vindo(a)!`)
 }
 
 saudar("Taty")
