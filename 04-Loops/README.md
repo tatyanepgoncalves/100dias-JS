@@ -17,18 +17,25 @@ Este repositório contém 10 desafios criativos e práticos que desenvolvi enqua
 
 ## 🧩 Lista de Desafios
 
-| Nº  | Desafio                                    | Nível        |
-|-----|--------------------------------------------|--------------|
-| 1   | Contagem de 1 a 10                         | Fácil        |
-| 2   | Números pares de 1 a 20                    | Fácil        |
-| 3   | Contagem regressiva com `while`           | Fácil        |
-| 4   | Contar vogais de uma frase                 | Intermediário|
-| 5   | Tabuada do número 7                        | Intermediário|
-| 6   | Lista de compras com `for...in`            | Intermediário|
-| 7   | Verificar se uma palavra é um palíndromo  | Intermediário|
-| 8   | FizzBuzz (Clássico)                        | Intermediário|
-| 9   | Manipulação de letras em frase             | Intermediário|
-| 10  | Escada com degraus                         | Intermediário|
+- 🟢 Fácil: 1, 2, 3
+- 🟡 Intermediário: 4, 5, 6, 7, 8, 9, 10
+
+```
+03-Loops/
+├── desafios/
+│   ├── 01-contagem-1-a-10.js
+│   ├── 02-numeros-pares.js
+│   ├── 03-contagem-regressiva.js
+│   ├── 04-contar-vogais-de-frase.js
+│   ├── 05-tabuada-7.js
+│   ├── 06-lista-compras.js
+│   ├── 07-verificador-palavra.js
+│   ├── 08-fizzbuzz.js
+│   ├── 09-manipulacao-de-letras-frase.js
+│   └── 10-escada-degraus.js
+├── desafiosLoops.md
+└── README.md
+```
 
 ---
 
@@ -40,7 +47,7 @@ Ou então, clone o projeto e rode local:
 
 ```bash
 git clone https://github.com/tatyanepgoncalves/100dias-JS.git
-cd Dia-4
+cd 04-Loops
 ```
 
 Abra os arquivos `.js` com um editor de código como o [VSCode](https://code.visualstudio.com/) e execute no terminal com:
