@@ -1,5 +1,5 @@
 # 10 desafios para treinar operadores em JavaScript!
-> Separados por fácil, médio e difícil.
+> Separados por fácil, intermediário e difícil.
 
 
 ---
