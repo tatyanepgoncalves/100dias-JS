@@ -19,15 +19,39 @@ Este repositório contém **10 desafios práticos** sobre estruturas condicionai
 
 ---
 
-## 💻 Como usar
+## 🚀 Como usar
 
-Você pode:
-1. Rodar os desafios diretamente no navegador usando [JSFiddle](https://jsfiddle.net/), [CodePen](https://codepen.io/) ou [Replit](https://replit.com).
-2. Ou usar Node.js via terminal:
-
+1. Clone o repositório:
 ```bash
-node index.js
+git clone https://github.com/tatyanepgoncalves/03-Condicionais.git
+
+cd 03-Condicionais/desafios
 ```
+
+## 📚 Níveis
+- 🟢 Fácil: 1, 2, 3
+- 🟡 Intermediário: 4, 5, 6
+- 🔴 Difícil: 7, 8, 9, 10
+
+
+```
+03-Condicionais/
+├── desafios/
+│   ├── 01-entrada-da-festa.js
+│   ├── 02-par-ou-impar.js
+│   ├── 03-aprovado-ou-reprovado.js
+│   ├── 04-calculadora-imc.js
+│   ├── 05-qual-turno-estuda.js
+│   ├── 06-jogo-numero-secreto.js
+│   ├── 07-simulador-semaforo.js
+│   ├── 08-desconto-loja.js
+│   ├── 09-login-simples.js
+│   └── 10-validador-triangulo.js
+├── desafiosCondicionais.md
+└── README.md
+```
+
+---
 
 ## 🧠 Objetivo
 Praticar e fixar o uso das principais estruturas de decisão em JavaScript com desafios simples e contextos fáceis de entender.
@@ -40,14 +64,8 @@ Praticar e fixar o uso das principais estruturas de decisão em JavaScript com d
 
 ---
 
-## ✨ Extras
-Todos os desafios podem ser adaptados com readline para receber entradas pelo terminal.
-Em breve: versão com HTML/CSS + input de usuário interativo!
-
----
 ## 🤝 Contribua
 Quer melhorar um desafio, adicionar outro ou transformar isso num mini curso interativo? Bora! Me chama ou abre uma issue/pull request. 🚀
 
 ---
 🧁 Feito com carinho por Tatyane Gonçalves 💜
-
