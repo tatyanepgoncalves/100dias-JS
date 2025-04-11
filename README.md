@@ -31,13 +31,13 @@ Estudar e aplicar JavaScript de forma intensa e prática por 100 dias seguidos, 
 ## 📁 Estrutura do Repositório
 
 ```bash
-├── dia-01/
+├── 01-Variavies-Tipos/
+│   ├── desafios/ # explicando o tema do dia + desafios
 │   ├── README.md  # explicando o tema do dia + desafios
 │   └── desafio.js   # código-fonte do projeto
-├── dia-02/
-├── dia-03/
+├── 02-Operadores/
+├── 03-Condicionais/
 ...
-├── dia-100/
 └── README.md      # você está aqui
 ```
 
