@@ -1,0 +1,1 @@
+// Crie uma função `criarContador()` que retorna outra função que aumenta um contador. O contador deve ser iniciado como `0` e incrementado toda vez que a função interna for chamada. Teste se o contador é mantido entre chamadas.

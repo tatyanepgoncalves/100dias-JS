@@ -1,0 +1,1 @@
+// Crie duas funções: `adicionar()` e `subtrair()`. Ambas devem utilizar uma variável global `x`. A primeira função deve adicionar 10 a `x` e a segunda subtrair 5. Após cada execução, exiba o valor de `x` e verifique o comportamento.

@@ -1,0 +1,1 @@
+// Crie um código que utilize um `for` loop. Dentro do loop, declare uma variável com `let` e outra com `const`. Exiba o valor de ambas dentro do loop e depois fora do loop. Teste o comportamento de ambas as variáveis.

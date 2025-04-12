@@ -1,0 +1,1 @@
+// Crie uma variável global chamada `valor` e, dentro de uma função, crie outra variável chamada `valor`. Exiba os valores da variável global e da local dentro e fora da função para entender a diferença de escopo e como elas se sobrepõem.
