@@ -12,7 +12,7 @@ Repositório com 10 desafios divididos em três níveis: fácil, intermediário 
 - 🔴 Difícil: 9, 10
 
 ```
-07-Escopos/
+09-Escopos/
 ├── desafios/
 │   ├── 01-variaveisGlobais.js
 │   ├── 02-variaveisLocais.js

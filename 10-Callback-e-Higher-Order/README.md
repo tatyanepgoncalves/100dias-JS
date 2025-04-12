@@ -11,7 +11,7 @@ Repositório com 10 desafios divididos em três níveis: **fácil**, **intermedi
 - 🔴 Difícil: 7, 8, 9, 10
 
 ```
-07-Callback e Higher Order/
+10-Callback e Higher Order/
 ├── desafios/
 │   ├── 01-callbackBomDia.js
 │   ├── 02-contadorFeliz.js

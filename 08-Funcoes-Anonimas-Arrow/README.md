@@ -10,7 +10,7 @@ Repositório com 10 desafios divididos em três níveis: fácil, intermediário 
 - 🔴 Difícil: 7, 8, 9, 10
 
 ```
-07-Funcoes/
+08-Funcoes/
 ├── README.md
 ├── desafios/
 │   ├── 01-cliqueMagico.js
