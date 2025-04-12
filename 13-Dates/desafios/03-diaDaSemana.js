@@ -1,0 +1,1 @@
+// Escreva um programa que receba uma data (no formato "YYYY-MM-DD") e retorne o dia da semana correspondente (por exemplo, "Segunda-feira").

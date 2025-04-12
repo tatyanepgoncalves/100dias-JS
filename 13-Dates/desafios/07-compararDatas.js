@@ -1,0 +1,1 @@
+// Escreva uma função que receba duas datas e retorne `true` se a primeira data for anterior à segunda, e `false` caso contrário.

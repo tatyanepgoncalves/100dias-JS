@@ -1,0 +1,1 @@
+// Escreva uma função que receba duas datas e retorne a diferença em dias entre elas.
